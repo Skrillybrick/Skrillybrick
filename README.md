@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Chase, aka @Skrillybrick
-- 👀 I’m interested in Web Development and DevOps
-- 🌱 I’m currently learning Django, Ansible, Terraform, AWS
-- 💞️ I love creating with code
+- Hi, I’m Chase.
+- I’m interested in Web Development and DevOps.
+- I’m currently working with React and Nodejs, and learning Angular and Go.
+- My favorite books are the Stormlight Archive series by Brandon Sanderson.
+- I love creating with code!
 
 
 <!---
